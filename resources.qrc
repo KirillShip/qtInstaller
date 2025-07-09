@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="packages/postgresql_15.deb">packages/postgresql_15.deb</file>
+        <file alias="packages/slapd_2.5.13.deb">packages/slapd_2.5.13.deb</file>
+        <file alias="packages/wine_8.0.deb">packages/wine_8.0.deb</file>
+    </qresource>
+</RCC>
